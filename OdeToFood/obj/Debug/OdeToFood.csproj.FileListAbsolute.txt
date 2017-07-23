@@ -200,3 +200,4 @@ C:\Users\Andrei\Documents\GitHub\PluralSight-Tutorial-MVC4-OTF\OdeToFood\obj\Deb
 C:\Users\Andrei\Documents\GitHub\PluralSight-Tutorial-MVC4-OTF\OdeToFood\obj\Debug\OdeToFood.csproj.GenerateResource.Cache
 C:\Users\Andrei\Documents\GitHub\PluralSight-Tutorial-MVC4-OTF\OdeToFood\obj\Debug\OdeToFood.dll
 C:\Users\Andrei\Documents\GitHub\PluralSight-Tutorial-MVC4-OTF\OdeToFood\obj\Debug\OdeToFood.pdb
+C:\Users\Andrei\Documents\GitHub\PluralSight-Tutorial-MVC4-OTF\OdeToFood\bin\WebMatrix.Data.xml
